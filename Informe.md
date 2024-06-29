@@ -156,6 +156,10 @@ class VacuumEnvironment(XYEnvironment):
         if action != 'NoOp':
             agent.performance -= 1
 ```
+## Simulación Pokemon
+![Simuñación1](https://cdn.discordapp.com/attachments/1224860730852114582/1256538289456943114/image.png?ex=668121f9&is=667fd079&hm=b68f916a8569f8732fc8e4b7926d5244f1fda41cafc54d740d857627bd3f04ea&)
+![Simulación2](https://cdn.discordapp.com/attachments/1224860730852114582/1256538338240757813/image.png?ex=66812205&is=667fd085&hm=33f177c0ee7b384940be509981193564dc43d52d9ba3996e9b5248568bf43e71&)
+
 # Conclusiones
 El proyecto ha demostrado ser una herramienta valiosa para la creación y simulación de agentes inteligentes en diversos entornos. La arquitectura modular permite una fácil extensión y adaptación a nuevos escenarios. El enfoque basado en agentes reflexivos y basados en modelos proporciona una comprensión profunda de las técnicas de inteligencia artificial y sus aplicaciones prácticas.
 
